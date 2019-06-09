@@ -8,6 +8,8 @@
 .buildlog/
 .history
 .svn/
+asignment1/
+*.code-workspace
 *.zip
 
 # IntelliJ related
