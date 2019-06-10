@@ -42,13 +42,15 @@ class _ProductManagerState extends State<ProductManager> {
   @override
   Widget build(BuildContext context) {
     // print('[ProDuctManager State] build()');
-    return ListView(
+    return Column(
       children: <Widget>[
         Container(
           margin: EdgeInsets.all(10.0),
           child: ProductControl(_updateProducts),
         ),
-        Products(_products)
+        Expanded(
+          child: Products(_products),
+        ),
       ],
     );
   }
