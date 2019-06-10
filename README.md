@@ -4,7 +4,7 @@ A source code from online course of [Learn Flutter & Dart to Build iOS & Android
 
 ## Demo
 
-()[./assets/demo1.gif]
+![](./assets/demo1.gif)
 
 ## Getting Started
 
