@@ -1,6 +1,10 @@
 # flutter_course
 
-A new Flutter project.
+A source code from online course of [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/)
+
+## Demo
+
+()[./assets/demo1.gif]
 
 ## Getting Started
 
